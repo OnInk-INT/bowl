@@ -1,0 +1,10 @@
+body {
+  color:gold;
+  background-color:#000000;
+}
+
+hr {
+  background-color: gold;
+  height: 5px;
+  border: none;
+}
