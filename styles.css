@@ -1,0 +1,43 @@
+body {
+  color:gold;
+  background-color:#000000;
+}
+
+hr {
+  background-color: gold;
+  height: 5px;
+  border: none;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.months{
+  font-size: 2rem;
+}
+
+.table{
+ color: gold;
+ text-align: center;
+ font-weight: 600;
+ font-size: 2rem;
+}
+
+.tableHead{
+  color: gold;
+  text-align: center;
+  font-weight: 600;
+  font-size: 3rem;
+}
+
+.reasons{
+  font-stretch: extra-expanded;
+  font-size: 2rem;
+}
