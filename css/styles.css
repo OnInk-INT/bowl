@@ -47,9 +47,15 @@ p {
 .reasons{
   font-stretch: extra-expanded;
   font-size: 2rem;
+  color: gray;
 }
 
 .name{
   font-size: 2rem;
   font-style: oblique;
+}
+
+.links{
+  color: gray;
+  font-size: 2rem;
 }
